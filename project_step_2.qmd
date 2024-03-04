@@ -1,0 +1,60 @@
+---
+title: "Project Step 2"
+author: Abby Komiske 
+format: html 
+bibliography: bibliography.bib 
+biblio-style: apalike
+link-citations: true
+---
+
+### Connect with the literature 
+
+**Interest statement** 
+
+I am interested in the subfield of law and corpus linguistics, where linguistic techniques currently seek to better understand the complexities and effects of legal language. I am particularly interested in investigating how legal language, such as in statutes and policy memos, differs from non-legal language, such as in news articles and novels, within the United States. I am particularly interested in investigating the distinct nuances and implications of the syntactic choices that are embedded within American legal texts, which I first discovered from "Legal Corpus Linguistics and the Half-Empirical Attitude" by @bernstein2020legal. This would provide valuable insight into how the law and complex legal concepts are communicated. My potential insight and contribution into this new but growing legal linguistic field would benefit the currently limited research by expanding the present knowledge on and analysis in how legal language differs from more everyday communication like the news and stories. In this way, studying how legal language differs from other discourse would contribute to understanding the unique functions and framework of legal diction.
+
+**Related Studies:**
+
+1. The study by @hashimoto2023solving on "Solving the Cherry-Picking Problem in Legislative History Use" aims to analyze two legislative histories as corpora and compare them against a general non-legal corpus of English to determine if the interpretative theory makes a significant difference in two example cases in the US. The results of the study indicate that a legislative history corpus can reveal  patterns of lexical meaning and produce unbiased  and  distributional  results  rather  than  a  single  biased data  point  as  most  legislative  history analyses often do. They did this study by manually annotating relevant terms and using Fisher’s  Exact Test to determine statistically significant results.  
+
+2. The study by @woods2023multi on "A multi-measure approach for lexical diversity in writing assessments: Considerations in measurement and timing" seeks to determine the best predictor for writing proficiency by using scored writing assessment samples from 911 ESL students. Lexical diversity was assessed with the Python lexical-diversity package and then a PCA was conducted to determine how these lexical diversity measures varied in getting diversity scores. Writing proficiency scores were then predicted by using linear mixed-effects regressions that included either a single diversity measure or multiple. The results indicated that LD is a meaningful predictor in timed writing proficiency assessments, multiple LD measures have more predictive power than individual measures, timing has a slight effect on LD, and some LD measures are highly correlated while other measures are not. 
+
+3. The study by @hashimoto2021frequency on "Is frequency enough?: The frequency model in vocabulary size testing" seeks to determine why modern vocabulary size tests are generally based on the idea that the more frequent a word is in a language, the more likely a learner will know the word. Using the Vocabulary of American-English Size Test (VAST) based on the Corpus of Contemporary American English (COCA), 403 English language learners were tested on a 10% systematic random sample of the first 5,000 most frequent words from that corpus. Pearson correlation between Rasch item difficulty and frequency was 0.50. This indicates that the frequency of a word can only predict which words are known with only a limited degree of accuracy and that other factors affect the order of acquisition. However, future confirmatory research is necessary to comprehensively determine the true degree to which frequency of words and vocabulary size of learners are actually related.
+
+4. The study on @yadav2020word "Word order typology interacts with linguistic complexity: A cross-linguistic corpus study" sought to understand how word order shows linguistic complexity. The researchers conducted a corpus study for a group of 38 languages, which were either Subject–Verb–Object (SVO) or Subject–Object–Verb (SOV), in order to investigate the role of word order typology in determining syntactic complexity. The results suggest that dependency distance in a language is determined by the default word order of a language and the direction of dependency (whether the noun precedes the verb or follows it). The results also indicate that other factors such as the morphological richness of a language and a multifactor account of sentence complexity influenced linguistic complexity.
+
+Note: These studies mostly relate to legal corpus and linguistic studies, but I need to delve into more studies. However, I do believe that I want to look into synanctic (or at least length related) complexity in the legal area. 
+
+
+**Gaps in Knowledge:**
+
+There are many major gaps in knowledge within the legal corpus linguistics field considering how relatively new it is. However, many researchers explicitly listed specific topics that should be discussed further, such as sentence complexity.  
+ 
+
+### Draft a research statement
+
+I seek to answer how legal discourse differs from non-legal discourse by exploring how legal statutes maintain winding chunks of run-on sentences and cross-references compared to more everyday media like news articles and novels utilizing the same function? The objective of this research includes understanding the different syntactic functions of legal language compared to more universal language use in the United States. This would impact the understanding of how legal language is constructed and differs to more common, everyday language.
+
+### Assessing my progress
+
+- What did you learn?
+
+I learned about how other scholars have used legal corpus to add to the legal linguistics community. 
+
+- What did you find most/ least challenging?
+
+I found finding an avenue into my own research idea to be the hardest. However, I found great inspiration in reading the gaps of knowledge that other scholars suggested should be pursued more. 
+
+- What resources did you consult?
+
+I consulted the readings and corpus studies, including [@hashimoto2023solving], [@woods2023multi], [@hashimoto2021frequency], and [@yadav2020word].  
+
+- What questions or concerns do you have at this point?
+
+I am mainly concerned with how to find suitable corpus for my research.
+
+- What do you need to address in order to move forward?
+
+I need to first address the viability of my research statement and also the potential data I will be using for my research before I move forward in this process. I scheduled a meeting with you on Friday to go over everything and make sure I am headed in the right direction. 
+
+### References 
